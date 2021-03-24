@@ -15,5 +15,5 @@ jobs:
       - name: Run test
         run: |
           npm start &
-          sleep 2000      
+          sleep 2      
           npm test
